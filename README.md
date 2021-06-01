@@ -1,4 +1,9 @@
-# Y collective
+# Y-Collective
+
+[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true)](https://discord.gg/pt8VyznvTs)
+[![Financial contributors](https://opencollective.com/y-collective/tiers/badge.svg)](https://discord.gg/WtJ49jGshW)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub)](https://opencollective.com/y-collective)
+
 > A transparent funding organization that finances the work on open-source tools for creating collaborative & decentralized applications - https://opencollective.com/y-collective
 
 We want to improve the ecosystem around the [Yjs CRDT](https://github.com/yjs/yjs) for building collaborative applications. The y-collective is managed by trusted authors of relevant software libraries in this space. We define the work that this collective is funding based on the interest of our sponsors. The maintainers of approved projects can charge up to $100/h for approved work and must make their timesheets publically available.
