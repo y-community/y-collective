@@ -8,8 +8,8 @@ Please use the [discussion board](https://github.com/y-community/y-collective/di
 ## Members
 
 * Kevin Jahns ([Yjs](https://github.com/yjs/yjs))
-* Hans Pagel ([Hocuspocus](https://github.com/ueberdosis/hocuspocus))
-* Philipp Kühn ([TipTap](https://github.com/ueberdosis/tiptap))
+* Hans Pagel ([Hocuspocus](https://www.hocuspocus.dev)
+* Philipp Kühn ([Tiptap](https://github.com/ueberdosis/tiptap))
 
 ## Projects
 
@@ -26,8 +26,8 @@ In this section we define the work that y-collective is funding. If you want to 
 ##### Gold Sponsors: 
 
 <a href="https://cargo.site/"><img height="70" alt="cargo" src="https://user-images.githubusercontent.com/5553757/118843640-8a696680-b8ca-11eb-9b5b-9e53c5d7c5a7.png"></a>
-<a href="https://saga.so/"><img height="70" alt="saga-logo" src="https://user-images.githubusercontent.com/5553757/118843142-0f07b500-b8ca-11eb-9418-1dd9505b0e8d.png"></a>
 
+<a href="https://saga.so/"><img height="70" alt="saga-logo" src="https://user-images.githubusercontent.com/5553757/118843142-0f07b500-b8ca-11eb-9418-1dd9505b0e8d.png"></a>
 
 ### Y-CRDT
 > [Y-CRDT](https://github.com/yjs/y-crdt) is a port of the Yjs CRDT to different languages.
@@ -47,7 +47,7 @@ We already started the work on Yrs ("wires") - a high-performance port of the Yj
   * Performance analysis compared to Yjs and Automerge
 * Provide Python bindings (see [Ypy](https://github.com/yjs/y-crdt/tree/main/y-py))
 
-### TipTap
-> [TipTap](https://www.tiptap.dev/) is a headless editor framework.
+### Tiptap
+> [Tiptap](https://www.tiptap.dev/) is a headless editor framework, with core support for collaborative editing.
 
 
