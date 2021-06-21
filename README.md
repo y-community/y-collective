@@ -37,7 +37,7 @@ In this section we define the work that y-collective is funding. If you want to 
 ### Y-CRDT
 > [Y-CRDT](https://github.com/yjs/y-crdt) is a port of the Yjs CRDT to different languages.
 
-Our goal is to make the Y CRDT ubiquitious by providing ports of Yjs to many different languages like Swift, Go, WASM, PHP, Python, Java, ..
+Our goal is to make the Y CRDT ubiquitous by providing ports of Yjs to many different languages like Swift, Go, WASM, PHP, Python, Java, ..
 
 We already started the work on Yrs ("wires") - a high-performance port of the Yjs CRDT to the Rust programming language. We are working on novel data structures to represent the internal CRDT structure even more efficiently than Yjs. Once we have a reference implementation, we will port Yrs to different languages using language bindings. 
 
