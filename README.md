@@ -15,7 +15,7 @@ Please use the [discussion board](https://github.com/y-community/y-collective/di
 * Kevin Jahns ([Yjs](https://github.com/yjs/yjs))
 * Hans Pagel ([Hocuspocus](https://www.hocuspocus.dev)
 * Philipp Kühn ([Tiptap](https://github.com/ueberdosis/tiptap))
-* Eric Meier ([Slate-yjs]())
+* Eric Meier ([Slate-yjs](https://github.com/BitPhinix/slate-yjs))
 
 ## Projects
 
@@ -57,6 +57,8 @@ We already started the work on Yrs ("wires") - a high-performance port of the Yj
 > [Tiptap](https://www.tiptap.dev/) is a headless editor framework, with core support for collaborative editing.
 
 ### Slate-yjs
+
+Yjs bindings for Slate.
 
 * Mark related changes (combining neighboring leaf text nodes)
 * Add identifiers to the in yjs stored Slate nodes to be able to sync move_node operations properly (just an idea)
